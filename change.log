@@ -1,0 +1,6 @@
+12/25/2014:
+  - Made the table responsive, now looks great on mobile browsers, even in IE as well.
+  - Changed the convert() function; it now starts at Bytes and can go up to Petabytes.
+
+12/24/2014:
+  - Added more file types and names for those files, (PowerPoint, Excel, Images...)

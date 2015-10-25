@@ -1,0 +1,5 @@
+DirectoryIndex index.php
+RewriteEngine on
+RewriteBase /
+
+RewriteRule ^([a-z0-9^/]+)?$ /index.php [NC]
