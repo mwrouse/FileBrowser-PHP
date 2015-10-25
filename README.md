@@ -2,7 +2,7 @@ PHP FileBrowser
 ===
 
 <b>Author</b><br/>
-Michael Rouse (michael@michaelrouse.net)
+Michael Rouse (mwrouse@outlook.com)
 
 <b>Description</b><br/>
 This file (index.php) will allow you to browse a directory, navigate all subdirectories and files all in one simple script.
@@ -14,4 +14,4 @@ This is designed to go in a root directory, so if you need to use it in a sub di
 
 
 <b>Demo:</b><br/>
-http://labs.michaelrouse.net
+http://labs.mrouse.xyz
